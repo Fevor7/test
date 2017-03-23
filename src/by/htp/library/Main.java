@@ -6,7 +6,7 @@ public class Main {
 		
 		Book book = new Book();
 		book.setPrice(39.4);
-		book.setTitle("First Book");
+		book.setTitle("First Book fvg");
 		
 		Book book2 = new Book(18.6, "Second book");
 		System.out.println("Book1: price= " + book.getPrice()
