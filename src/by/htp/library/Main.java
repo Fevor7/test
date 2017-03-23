@@ -9,7 +9,7 @@ public class Main {
 		book.setTitle("First Book fvg");
 		
 		Book book2 = new Book(18.6, "Second book");
-		System.out.println("Book1: price= " + book.getPrice()
+		System.out.println("dfgdfgBook1: price= " + book.getPrice()
 		+ " " + "title= " + book.getTitle());
 		
 		System.out.println("Book2: price= " + book2.getPrice()
