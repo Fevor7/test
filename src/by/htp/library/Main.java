@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Book book = new Book();
-		book.setPrice(15.3);
+		book.setPrice(39.4);
 		book.setTitle("First Book");
 		
 		Book book2 = new Book(18.6, "Second book");
